@@ -6,7 +6,7 @@ Var
 
 funcao eUmNumero(v:inteiro) : logico
 inicio
-   retorne (v > 0) e (v <= 100)
+   retorne (v >= 0) e (v <= 100)
 fimfuncao
 
 Inicio
