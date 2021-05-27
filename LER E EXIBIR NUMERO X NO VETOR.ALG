@@ -2,7 +2,7 @@ Algoritmo "ler e exibir numero x no vetor"
 
 Var
    indice : inteiro
-   vetorEntrada, _vetor: vetor [1..10] de inteiro
+   vetorEntrada: vetor [1..10] de inteiro
    numeroX: inteiro
    contaNumeroX: inteiro
 Inicio
