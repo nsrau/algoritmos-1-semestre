@@ -1,4 +1,4 @@
-Algoritmo "mostrar o maior de 3 numeros"
+Algoritmo "mostrar o menor de 3 numeros"
 
 Var
    numero_um, numero_dois, numero_tres: inteiro
