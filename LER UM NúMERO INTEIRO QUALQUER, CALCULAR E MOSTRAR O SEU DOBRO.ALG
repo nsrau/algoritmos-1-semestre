@@ -1,4 +1,4 @@
-Algoritmo "ler um n�mero inteiro qualquer, calcular e mostrar o seu dobro"
+Algoritmo "ler um numero inteiro qualquer, calcular e mostrar o seu dobro"
 
 Var
    numeroEntrada, numeroDobro:real
