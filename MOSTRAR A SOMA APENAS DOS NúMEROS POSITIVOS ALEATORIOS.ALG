@@ -1,4 +1,4 @@
-Algoritmo "mostrar a soma apenas dos n�meros positivos aleatorios"
+Algoritmo "mostrar a soma apenas dos numeros positivos aleatorios"
 
 Var
    indice, valorAleatorio, somaPositivos : inteiro
