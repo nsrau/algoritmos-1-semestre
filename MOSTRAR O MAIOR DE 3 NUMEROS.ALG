@@ -30,6 +30,6 @@ Inicio
       escreval("o menor numero é o segundo ", numero_dois)
    fimse
    se ((numero_tres < numero_um) e (numero_tres < numero_dois)) entao
-      escreval("o menor numero é o terceiro ", numero_dois)
+      escreval("o menor numero é o terceiro ", numero_tres)
    fimse
 Fimalgoritmo
