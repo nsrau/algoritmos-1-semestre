@@ -2,7 +2,7 @@ Algoritmo "ler uma matriz 5x5 e multiplicar por x"
 
 Var
    indiceA, indiceB : inteiro
-   vetorEntrada, _vetor: vetor [1..5, 1..5] de inteiro
+   vetorEntrada: vetor [1..5, 1..5] de inteiro
    numeroX: inteiro
 Inicio
    para indiceA de 1 ate 5 faca
