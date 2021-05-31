@@ -1,4 +1,4 @@
-Algoritmo "mostrar o maior de 3 numeros"
+Algoritmo "mostrar o menor de 3 numeros"
 
 Var
    numero_um, numero_dois, numero_tres: inteiro
@@ -30,6 +30,6 @@ Inicio
       escreval("o menor numero é o segundo ", numero_dois)
    fimse
    se ((numero_tres < numero_um) e (numero_tres < numero_dois)) entao
-      escreval("o menor numero é o terceiro ", numero_dois)
+      escreval("o menor numero é o terceiro ", numero_tres)
    fimse
 Fimalgoritmo
