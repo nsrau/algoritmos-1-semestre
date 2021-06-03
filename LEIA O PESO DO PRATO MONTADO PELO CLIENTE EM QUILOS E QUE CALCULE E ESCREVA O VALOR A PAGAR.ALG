@@ -1,12 +1,8 @@
-Algoritmo "calcular e escrever o índice de massa corporal da pessoa"
-
 Var
-   peso, altura: real
+   pesoPrato : real
 
 Inicio
-   escreva("Escreva o seu peso em Kg: ")
-   leia(peso)
-   escreva("Escreva a sua altura em m: ")
-   leia(altura)
-   escreva("O índice da sua massa corporal ", peso / (altura * altura))
+   escreva("Qual Ã© o peso do prato montado (em Kg)? ")
+   leia(pesoPrato)
+   escreva("O valor a pagar Ã©: R$ ", (pesoPrato*22.00):3)
 Fimalgoritmo
